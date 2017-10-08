@@ -30,6 +30,18 @@ const posts = [
     author: 'Cody',
     title: 'Events',
     body: 'Blog post number 4'
+  },
+  {
+    id: 5,
+    author: 'Tester',
+    title: 'Events',
+    body: 'Blog post number 5'
+  },
+  {
+    id: 6,
+    author: 'Test Tester',
+    title: 'Events',
+    body: 'Blog post number 6'
   }
 ]
 
